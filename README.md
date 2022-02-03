@@ -1,5 +1,11 @@
-### Hi there 👋
+# Hello, I'm Bucsi
+I'm a  
+🧑‍🎓 teacher training <i title="computer science & library science">💻📚</i> student @ [ELTE](https://elte.hu)  
+🧑‍💻 teaching assistant @ [ELTE Faculty of Informatics](https://inf.elte.hu)  
+🧑‍🏫 external lecturer @ [ELTE Apáczai High School](https://apaczai.elte.hu)  
+🎮 video and tabletop game enthusiast
 
+You can find my university teaching materials at my [university webpage](https://bucsi.web.elte.hu), and the code for my classes at [bucsi/elteik](https://github.com/bucsi/elteik)
 <!--
 **bucsi/bucsi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
