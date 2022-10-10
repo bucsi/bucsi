@@ -1,8 +1,8 @@
 # Hello, I'm Bucsi
 I'm a  
-🧑‍🎓 teacher training <i title="computer science & library science">💻📚</i> student @ [ELTE](https://elte.hu)  
-🧑‍💻 teaching assistant @ [ELTE Faculty of Informatics](https://inf.elte.hu)  
-🧑‍🏫 external lecturer @ [ELTE Apáczai High School](https://apaczai.elte.hu)  
+🧑‍🎓 Computer Science BSC, ex-teacher training student @ [ELTE](https://elte.hu)  
+🧑‍🏫 teaching assistant @ [ELTE Faculty of Informatics](https://inf.elte.hu)  
+🧑‍💻 sfotware developer @ [Emarsys, An SAP Company](https://emarsys.com)  
 🎮 video and tabletop game enthusiast
 
 You can find my university teaching materials at my [university webpage](https://bucsi.web.elte.hu), and the code for my classes at [bucsi/elteik](https://github.com/bucsi/elteik)
