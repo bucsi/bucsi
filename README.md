@@ -2,7 +2,7 @@
 I'm a  
 🧑‍🎓 Computer Science BSC, ex-teacher training student @ [ELTE](https://elte.hu)  
 🧑‍🏫 teaching assistant @ [ELTE Faculty of Informatics](https://inf.elte.hu)  
-🧑‍💻 sfotware developer @ [Emarsys, An SAP Company](https://emarsys.com)  
+🧑‍💻 software developer @ [Emarsys, An SAP Company](https://emarsys.com)  
 🎮 video and tabletop game enthusiast
 
 You can find my university teaching materials at my [university webpage](https://bucsi.web.elte.hu), and the code for my classes at [bucsi/elteik](https://github.com/bucsi/elteik)
